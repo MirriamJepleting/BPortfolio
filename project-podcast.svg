@@ -1,0 +1,18 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F9F9FF"/>
+  <circle cx="668" cy="118" r="66" fill="#2FD27F" fill-opacity="0.16"/>
+  <circle cx="148" cy="466" r="82" fill="#FFB14F" fill-opacity="0.16"/>
+  <rect x="98" y="96" width="604" height="408" rx="28" fill="white"/>
+  <rect x="142" y="144" width="212" height="248" rx="28" fill="#20242D"/>
+  <circle cx="248" cy="222" r="46" fill="#2FD27F"/>
+  <rect x="226" y="202" width="44" height="84" rx="22" fill="white"/>
+  <rect x="208" y="286" width="80" height="18" rx="9" fill="white"/>
+  <path d="M192 242C192 273 217 298 248 298C279 298 304 273 304 242" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <rect x="400" y="154" width="250" height="24" rx="12" fill="#20242D"/>
+  <rect x="400" y="206" width="184" height="18" rx="9" fill="#D7DDE8"/>
+  <rect x="400" y="240" width="210" height="18" rx="9" fill="#D7DDE8"/>
+  <rect x="400" y="294" width="214" height="100" rx="22" fill="#7B38FF"/>
+  <path d="M440 372C458 336 480 318 504 318C528 318 550 336 568 372" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="504" cy="338" r="22" fill="#FFFFFF"/>
+  <text x="170" y="430" fill="#20242D" font-family="Arial, sans-serif" font-size="28" font-weight="700">PODCAST</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#FCFBF8"/>
+  <rect x="92" y="90" width="616" height="420" rx="28" fill="white"/>
+  <rect x="130" y="126" width="220" height="348" rx="24" fill="#FFF2E3"/>
+  <rect x="392" y="142" width="260" height="26" rx="13" fill="#20242D"/>
+  <rect x="392" y="194" width="202" height="18" rx="9" fill="#CCD4E0"/>
+  <rect x="392" y="228" width="224" height="18" rx="9" fill="#CCD4E0"/>
+  <rect x="392" y="262" width="188" height="18" rx="9" fill="#CCD4E0"/>
+  <rect x="392" y="320" width="236" height="104" rx="20" fill="#20242D"/>
+  <rect x="430" y="350" width="82" height="10" rx="5" fill="#2FD27F"/>
+  <rect x="430" y="378" width="162" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.8"/>
+  <rect x="430" y="402" width="120" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.8"/>
+  <rect x="182" y="166" width="116" height="160" rx="12" fill="white"/>
+  <rect x="196" y="190" width="88" height="10" rx="5" fill="#7B38FF"/>
+  <rect x="196" y="220" width="72" height="10" rx="5" fill="#D9DFEA"/>
+  <rect x="196" y="246" width="84" height="10" rx="5" fill="#D9DFEA"/>
+  <path d="M190 382L274 334L316 402L232 450L190 382Z" fill="#2FD27F"/>
+  <circle cx="624" cy="112" r="48" fill="#2FD27F" fill-opacity="0.12"/>
+  <text x="154" y="438" fill="#20242D" font-family="Arial, sans-serif" font-size="28" font-weight="700">MEDIUM</text>
+</svg>
